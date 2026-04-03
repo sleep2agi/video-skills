@@ -1,3 +1,5 @@
+![video-skills](assets/banner.png)
+
 # video-skills
 
 > AI video production toolkit — Dreamina, Remotion, ffmpeg, MiniMax TTS, powered by Claude Code.
